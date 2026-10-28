@@ -1,0 +1,11 @@
+{
+  "id": "xhl-rc-pinyin",
+  "name": "XHL Remote Chest PinYin",
+  "version": "1.0.0",
+  "capabilities": [],
+  "description": "Chinese IME input and pinyin search for XHL Remote Chest.",
+  "authors": [
+    "gaoxusheng"
+  ],
+  "license": "MIT"
+}
